@@ -103,4 +103,9 @@
 
 <style scoped>
 @import "../assets/css/css for sideview&verticalview/verticalview.css";
+/* .verticalview {
+  position: fixed;
+  top: 0;
+  left: 0;
+} */
 </style>
